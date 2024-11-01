@@ -1,0 +1,26 @@
+.wpepcsvtotal_sale table {
+    width: 100%;
+    padding: 10px;
+}
+.short_display{
+    padding: 15px;
+}
+.wpepcsvtotal_sale th {
+    height: 10px;
+    background-color: #4CAF50;
+    color: white;
+}
+.wpepcsvtotal_sale a {
+    text-decoration: none;
+}
+.wpepcsvtotal_sale td {
+    height: 10px;
+    vertical-align: bottom;
+}
+.wpepcsvtotal_sale th, .wpepcsvtotal_sale td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+.wpepcsvtotal_sale tr:hover {background-color: #f5f5f5;}
+.wpepcsvtotal_sale tr:nth-child(even) {background-color: #f2f2f2;}
